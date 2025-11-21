@@ -1,4 +1,6 @@
-Consegna:
-calcolare il costo minimo tra due nodi di un grafo.
-(possono esserci pesi negativi, densità del grafo)
-network X permette di calcolare il percorso a costo minimo e possiamo confrontarci
+
+# LAB3
+
+I tried several solution in order to solve the problem but I end up that bellman-ford is the best one in terms of efficiency and accurancy. So I implemented that well-known algorithm, doing research on internet. At the end I compared my solution with the given one in order to check the resuls. 
+
+
